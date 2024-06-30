@@ -1,4 +1,4 @@
-# Klasifikasi Daun Tanaman Obat dengan Metode Deep Learning 
+# Judul Project: Klasifikasi Daun Tanaman Obat dengan Metode Deep Learning 
 
 # Identitas Kelompok
 ## - C14210097 / Edward Soenardi
@@ -8,9 +8,7 @@
 # Link Dataset
 ## Indian Medicinal Leaves Dataset
 ### - https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset
-##  
 
-# Reference
 # Reference
 
 [1] R. Croteau, T. M. Kutchan, and N. G. Lewis, "Natural Products (Secondary Metabolites)," in Biochemistry and Molecular Biology of Plants, B. Buchanan, W. Gruissem, and R. L. Jones, Eds., Rockville, MD: American Society of Plant Physiologists, 2000, pp. 1250-1318.
