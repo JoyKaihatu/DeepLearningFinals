@@ -10,7 +10,7 @@
 ### - https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset
 ##  
 
-# References
+# Reference
 - [1] R. Croteau, T. M. Kutchan, and N. G. Lewis, "Natural Products (Secondary Metabolites)," in Biochemistry and Molecular Biology of Plants, B. Buchanan, W. Gruissem, and R. L. Jones, Eds., Rockville, MD: American Society of Plant Physiologists, 2000, pp. 1250-1318.
 - [2] L. S. Phondani, R. Prasad, and S. Bhattacharya, "Ethnobotanical review on traditional uses of medicinal plants: Where can we still learn and what can we still learn?," Indian Journal of Traditional Knowledge, vol. 13, no. 3, pp. 1-14, 2014.
 - [3] S.M. Jeelani, G.A. Rather, A. Sharma, S.K. Lattoo, In perspective: potential medicinal plant resources of Kashmir Himalayas, their domestication and cultivation for commercial exploitation, Journal of Applied Research on Medicinal and Aromatic Plants 8 (2018) 10–25, https://doi.org/10.1016/J.JARMAP.2017.11.001. 
