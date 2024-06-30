@@ -1,4 +1,4 @@
-# Judul Project: Klasifikasi Daun Tanaman Obat dengan Metode Deep Learning 
+# Klasifikasi Daun Tanaman Obat dengan Metode Deep Learning 
 
 # Identitas Kelompok
 ## - C14210097 / Edward Soenardi
