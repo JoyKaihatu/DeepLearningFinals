@@ -6,7 +6,7 @@
 ## - C14210016 / Michael Adi Pratama
 
 # Link Dataset
-- Indian Medicinal Leaves Dataset
+## Indian Medicinal Leaves Dataset
 ### https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset
 
 # Reference
