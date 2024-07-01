@@ -8,6 +8,8 @@
 # Link Dataset
 ## Indian Medicinal Leaves Dataset
 ### https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset
+## Dataset OpenSources (Roboflow, Google, Gbif Data)
+### https://drive.google.com/drive/folders/1DegH6Ot12W01M6Ng2lnF5xQO3Ufo9Z0X?usp=drive_link
 
 # Model
 ### https://drive.google.com/drive/folders/1g91uHSa0K-9ZLnVcadUA3dn03D3ER8xe?usp=drive_link
