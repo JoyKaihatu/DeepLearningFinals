@@ -9,6 +9,8 @@
 ## Indian Medicinal Leaves Dataset
 ### https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset
 
+# Model
+### https://drive.google.com/drive/folders/1g91uHSa0K-9ZLnVcadUA3dn03D3ER8xe?usp=drive_link
 # Reference
 
 [1] R. Croteau, T. M. Kutchan, and N. G. Lewis, "Natural Products (Secondary Metabolites)," in Biochemistry and Molecular Biology of Plants, B. Buchanan, W. Gruissem, and R. L. Jones, Eds., Rockville, MD: American Society of Plant Physiologists, 2000, pp. 1250-1318.
